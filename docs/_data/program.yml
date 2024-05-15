@@ -1,0 +1,158 @@
+days:
+- name: Monday
+  abbr: Mon
+  date: 2024-06-10
+  rooms:
+  - name: Språkparken
+    talks:
+      - name: "Introduction"
+        time_start: '9:00'
+        time_end: '9:30'
+      - name: "An areal-typological overview of voicing contrasts in Western Asia"
+        time_start: '9:30'
+        time_end: '10:00'
+      - name: "Is Western Austronesian Symmetrical Voice Split Ergativity? Preliminary evidence from Belait (North Borneo)."
+        time_start: '10:00'
+        time_end: '10:30'
+      - name: "Coffee break"
+        time_start: '10:30'
+        time_end: '11:00'
+      - name: "Variation in the spatial diffusion of structural aspects of language: A case study"
+        time_start: '11:00'
+        time_end: '11:30'
+      - name: "Generalizability and Reproduction in Quantitative Typology: A Case Study on Sound Symbolism"
+        time_start: '11:30'
+        time_end: '12:00'
+      - name: "Lexical cluster analysis of 10 Bantu A80 languages"
+        time_start: '12:00'
+        time_end: '12:30'
+
+      - name: "Dalkalaen (Oceanic): Articulatory variation shaped by phonological contrastivity, and vice-versa"
+        time_start: '15:00'
+        time_end: '15:30'
+      - name: "A new approach to Yawa-Saweru prosody"
+        time_start: '15:30'
+        time_end: '16:00'
+      - name: "The third high vowel in Yamalero (Guahiban): arguments favouring /ɯ/ instead of /ɨ/"
+        time_start: '16:00'
+        time_end: '16:30'
+      - name: "Coffee break"
+        time_start: '16:30'
+        time_end: '17:00'
+      - name: "The place of Cora ritual chants in a typology of poetic metrics"
+        time_start: '17:00'
+        time_end: '17:30'
+      - name: "Metathesis in Colloquial Persian: Co-Phonologies of Loanwords Adaptation"
+        time_start: '17:30'
+        time_end: '18:00'
+  - name: Hörsal 9
+    talks:
+      - name: "Spoken typology: integrating phonetics, prosody and grammar"
+        time_start: '13:45'
+        time_end: '14:45'
+  - name: Elsewhere
+    talks:
+      - name: "Lunch"
+        time_start: '12:30'
+        time_end: '13:30'
+
+- name: Tuesday
+  abbr: Tues
+  date: 2024-06-11
+  rooms:
+  - name: Språkparken
+    talks:
+      - name: "A Proposed Link Between Different Subject Marking and Backgrounding: Evidence from Sa"
+        time_start: '9:00'
+        time_end: '9:30'
+      - name: "The Typology of Case Systems: evidence from Gàidhlig and Hungarian"
+        time_start: '9:30'
+        time_end: '10:00'
+      - name: "Testing trade-offs between gender and number indexing and other cues to A and P arguments: A corpus-based perspective"
+        time_start: '10:00'
+        time_end: '10:30'
+      - name: "Coffee break"
+        time_start: '10:30'
+        time_end: '11:00'
+      - name: "Correlative clauses in Gawarbati (Indo-Aryan): multifunctionality and possible evolution"
+        time_start: '11:00'
+        time_end: '11:30'
+      - name: "Translationese in the Parallel Bible Corpus: Evaluating Extracted Word Order Features from Translated Texts"
+        time_start: '11:30'
+        time_end: '12:00'
+      - name: "Accounting for the variation of causal meaning across clause types in Polybian Greek"
+        time_start: '12:00'
+        time_end: '12:30'
+
+      - name: "Reciprocal-sociative coexpression and lexical semantics"
+        time_start: '15:00'
+        time_end: '15:30'
+      - name: "From knowledge to possibility: structural correlates of semantic change"
+        time_start: '15:30'
+        time_end: '16:00'
+      - name: "The verbs ‘to have’ and ‘to exist’ in Oromo with comparison to Amharic: periphrastic possessive predicates"
+        time_start: '16:00'
+        time_end: '16:30'
+      - name: "Coffee break"
+        time_start: '16:30'
+        time_end: '17:00'
+      - name: "Concessive conditionals, indefinite pronouns, and the semantic map of additivity"
+        time_start: '17:00'
+        time_end: '17:30'
+      - name: "The scope of negation and universal quantifiers: A cross-linguistic and diachronic investigation"
+        time_start: '17:30'
+        time_end: '18:00'
+  - name: Hörsal 9
+    talks:
+      - name: "Keynote"
+        time_start: '13:45'
+        time_end: '14:45'
+  - name: Elsewhere
+    talks:
+      - name: "Lunch"
+        time_start: '12:30'
+        time_end: '13:30'
+      - name: "Conference dinner in Gula Villan"
+        time_start: '18:15'
+        time_end: '20:00'
+
+- name: Wednesday
+  abbr: Wed
+  date: 2024-06-12
+  rooms:
+  - name: Språkparken
+    talks:
+      - name: "A typological study of applicative uses of spatial markers"
+        time_start: '9:00'
+        time_end: '9:30'
+      - name: "The Strategy of Comparative Constructions in Enlhet"
+        time_start: '9:30'
+        time_end: '10:00'
+      - name: "A typological perspective on morphological and periphrastic combinations of valency operations"
+        time_start: '10:00'
+        time_end: '10:30'
+      - name: "Coffee break"
+        time_start: '10:30'
+        time_end: '11:00'
+      - name: "Investigating the flexibility of the classifier-to-noun assignment in Terena (Arawakan)"
+        time_start: '11:00'
+        time_end: '11:30'
+      - name: "Inheritance and contact in the Arawakan classifier system(s)"
+        time_start: '11:30'
+        time_end: '12:00'
+      - name: "The predictive function of Baniwa classifiers"
+        time_start: '12:00'
+        time_end: '12:30'
+  - name: Studio 2
+    talks:
+      - name: "Masterclass on parallel corpora and computational methods"
+        time_start: '13:45'
+        time_end: '14:45'
+  - name: Elsewhere
+    talks:
+      - name: "Lunch"
+        time_start: '12:30'
+        time_end: '13:30'
+      - name: "Excursion"
+        time_start: '15:00'
+        time_end: '17:00'
