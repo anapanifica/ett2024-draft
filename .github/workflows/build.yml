@@ -1,4 +1,4 @@
-# Gets triggered upon the creation of a new tag
+# Gets triggered upon the creation of a new tag!
 on:
   push:
     tags:
